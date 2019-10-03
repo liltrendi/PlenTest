@@ -1,2 +1,7 @@
 # PlenTest
-A cross platform music player desktop application made with Node-Webkit that doubles up as a live tweet streamer, selfie taker, task scheduler and calculator.
+
+[<img src="https://img.shields.io/badge/js-javascript-yellow">]()
+[<img src="https://img.shields.io/badge/node-v10.15.2-brightgreen">]()
+[<img src="https://img.shields.io/badge/npm-v6.11.2-orange">]()
+[<img src="https://img.shields.io/badge/nw.js-v0.41.1-blue">]()
+[<img src="https://img.shields.io/badge/jQuery-v2.1.3-red">]()
